@@ -7,25 +7,25 @@
     backface-visibility: hidden;
     animation: slideBg 36s linear infinite 5s;
     animation-timing-function: ease-in;
-    background-image: url(images/laughing-businesswoman-wearing-telephone-headset-SDS8Q3M.jpg);
+    background-image: url(assets/images/laughing-businesswoman-wearing-telephone-headset-SDS8Q3M.jpg);
 
 }
 
 @keyframes slideBg {
     0% {
-        background-image: url(images/laughing-businesswoman-wearing-telephone-headset-SDS8Q3M.jpg)
+        background-image: url(assets/images/laughing-businesswoman-wearing-telephone-headset-SDS8Q3M.jpg)
     }
     25% {
-        background-image: url(images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg)
+        background-image: url(assets/images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg)
     }
     50% {
-        background-image: url(images/baby-girl-smiling-and-swimming-in-water-PZY296C.jpg)
+        background-image: url(assets/images/baby-girl-smiling-and-swimming-in-water-PZY296C.jpg)
     }
     75% {
-        background-image: url(images/two-laughing-female-friends-having-fun-walking-9KDBTY6.jpg)
+        background-image: url(assets/images/two-laughing-female-friends-having-fun-walking-9KDBTY6.jpg)
     }
     100% {
-        background-image: url(images/seniors-friends-on-the-beach-MGW2XJ9.jpg)
+        background-image: url(assets/images/seniors-friends-on-the-beach-MGW2XJ9.jpg)
     }
 
 }
