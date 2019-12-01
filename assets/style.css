@@ -5,27 +5,27 @@
     background-size: cover;
     background-repeat: no-repeat;
     backface-visibility: hidden;
-    animation: slideBg 36s linear infinite 5s;
-    animation-timing-function: ease-in;
-    background-image: url(images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg);
+    animation: slideBg 36s linear infinite 8s;
+    animation-timing-function: ease-in-out;
+    background-image: url("../images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg");
 
 }
 
 @keyframes slideBg {
     0% {
-        background-image: url(images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg)
+        background-image: url("../images/laughing-bearded-man-holding-hair-and-laughing-3DLGZ7V.jpg");
     }
     25% {
-        background-image: url(images/happy-boy-in-autumn-forest-RB5HWXS.jpg)
+        background-image: url("../images/happy-boy-in-autumn-forest-RB5HWXS.jpg");
     }
     50% {
-        background-image: url(images/laughing-businesswoman-wearing-telephone-headset-QZRU9UA.jpg)
+        background-image: url("../images/laughing-businesswoman-wearing-telephone-headset-QZRU9UA.jpg");
     }
     75% {
-        background-image: url(images/laughing-friends-sitting-on-a-boat-having-drinks-RLZTLFW.jpg)
+        background-image: url("../images/laughing-friends-sitting-on-a-boat-having-drinks-RLZTLFW.jpg");
     }
     100% {
-        background-image: url(images/laughing-afro-man-in-sunlight-QLEFV3C.jpg)
+        background-image: url("../images/laughing-afro-man-in-sunlight-QLEFV3C.jpg");
     }
 
 }
